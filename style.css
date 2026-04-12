@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    background-color: #1c1c1c;
+    font-family: Arial;
+    color: white;
+}
+
+.container {
+    width: 400px;
+    margin: 100px auto;
+    background: #1f2937;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+span {
+    color: #4adf86;
+}
+
+button {
+    margin-top: 15px;
+    padding: 10px;
+    background: #4adf86;
+    border: none;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.output {
+    display: flex;
+    justify-content: space-between;
+}
+
+.output button {
+    width: 45%;
+    background: #273549;
+    color: #4adf86;
+}
