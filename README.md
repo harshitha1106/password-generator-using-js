@@ -60,7 +60,8 @@ password-generator-using-js/
 
 ## Screenshots
 
-> Add screenshots here once available
+> Add screenshots here once available<img width="759" height="456" alt="image" src="https://github.com/user-attachments/assets/ce1d3517-c7d7-479b-be22-e264376ca3d8" />
+
 
 ## Future Improvements
 
